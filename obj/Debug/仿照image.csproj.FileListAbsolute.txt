@@ -1,0 +1,9 @@
+E:\Code\VisualStudio\C#\仿照image\bin\Debug\仿照image.exe.config
+E:\Code\VisualStudio\C#\仿照image\bin\Debug\仿照image.exe
+E:\Code\VisualStudio\C#\仿照image\bin\Debug\仿照image.pdb
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.csprojAssemblyReference.cache
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.Form1.resources
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.Properties.Resources.resources
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.csproj.GenerateResource.cache
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.exe
+E:\Code\VisualStudio\C#\仿照image\obj\Debug\仿照image.pdb
